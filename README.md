@@ -1,2 +1,2 @@
-# redi-pprojects
+# redi-projects
 redi
